@@ -1,0 +1,14 @@
+subject: clpi/idol-eyes
+earlier: d29300b68502af4c303e3a226477f5f6532d445f
+later:   d7e7b009e735334bb2cbcff25db41320450ab051
+  coverage: improving (18 -> 23)
+  fidelity: improving (21 -> 126)
+  solvability: unmeasured
+  reconversibility: improving (0 -> 1)
+  reweightability: unmeasured
+  speed: unmeasured
+  setup: flat (2 -> 2)
+blocking dimensions: solvability, reweightability, speed
+recomputed reading: not certified
+printed reading:    not certified
+CONSISTENT
